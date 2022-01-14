@@ -4,7 +4,7 @@
       "id":1,
       "icon": "mdi-inbox",
       "status":1,
-      "defect":0,
+      "defect":false,
       "info": {
         "name": "Бухгалтерия",
         "location": "1 этаж",
@@ -17,7 +17,7 @@
           "id":1,
           "icon": "mdi-inbox",
           "status":0,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 1",
             "location": "1 этаж",
@@ -29,7 +29,7 @@
           "id":2,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 2",
             "location": "1 этаж",
@@ -41,7 +41,7 @@
           "id":3,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 2",
             "location": "1 этаж",
@@ -53,7 +53,7 @@
           "id":4,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 3",
             "location": "1 этаж",
@@ -65,7 +65,7 @@
           "id":5,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 4",
             "location": "1 этаж",
@@ -80,7 +80,7 @@
       "id":2,
       "icon": "mdi-star",
       "status":1,
-      "defect":0,
+      "defect":true,
       "info": {
         "name": "Отдел кадров",
         "location": "2 этаж",
@@ -93,7 +93,7 @@
           "id":1,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 1",
             "location": "2 этаж",
@@ -106,7 +106,7 @@
           "id":2,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":true,
           "info": {
             "name": "Компьютер 2",
             "location": "2 этаж",
@@ -121,7 +121,7 @@
       "id":3,
       "icon": "mdi-send",
       "status":1,
-      "defect":0,
+      "defect":false,
       "info": {
         "name": "Отдел продаж",
         "location": "3 этаж",
@@ -134,7 +134,7 @@
           "id":1,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 1",
             "location": "3 этаж",
@@ -149,7 +149,7 @@
       "id":4,
       "icon": "mdi-email-open",
       "status":1,
-      "defect":0,
+      "defect":false,
       "info": {
         "name": "Договорной отдел",
         "location": "3 этаж",
@@ -162,7 +162,7 @@
           "id":1,
           "icon": "mdi-inbox",
           "status":1,
-          "defect":0,
+          "defect":false,
           "info": {
             "name": "Компьютер 1",
             "location": "1 этаж",
