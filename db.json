@@ -1,4 +1,144 @@
 {
+  "menuWebPage": [
+    {
+      "id":1,
+      "title": "Информация о системе",
+      "link": "info-page",
+      "childrenMenu":[
+        {
+          "id":1,
+          "title": "Общая",
+          "link": "general-info"
+        }, {
+          "id":2,
+          "title": "Ресурсы",
+          "link": "resources"
+        }, {
+          "id":3,
+          "title": "Подключения",
+          "link": "connections"
+        }, {
+          "id":4,
+          "title": "Учетные записи",
+          "link": "accounts"
+        }, {
+          "id":5,
+          "title": "Реестр",
+          "link": "registry"
+        },  {
+          "id":6,
+          "title": "Службы устройств",
+          "link": "device-services"
+        }, {
+          "id":7,
+          "title": "Порты",
+          "link": "ports"
+        }, {
+          "id":8,
+          "title": "Процессы",
+          "link": "processes"
+        }, {
+          "id":9,
+          "title": "Установленные программы",
+          "link": "programms"
+        }, {
+          "id":10,
+          "title": "Журнал событий",
+          "link": "events-log"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "title": "Действия",
+      "link": "actions",
+      "childrenMenu":[
+        {
+          "id":1,
+          "title": "Включение",
+          "link": "turn-on"
+        },
+        {
+          "id":2,
+          "title": "Выключение",
+          "link": "turn-off"
+        }, {
+          "id":3,
+          "title": "Перезагрузка",
+          "link": "reboot"
+        },
+        {
+          "id":4,
+          "title": "Циклическая перезагрузка",
+          "link": "loop-reboot"
+        },
+        {
+          "id":5,
+          "title": "Wake on Lan",
+          "link": "wake-on-lan"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "title": "Датчики",
+      "link": "infoPage",
+      "childrenMenu":[
+        {
+          "id":1,
+          "title": "Датчик температуры",
+          "link": "temperature-sensor"
+        }, {
+          "id":2,
+          "title": "Датчик влажности",
+          "link": "humidity-sensor"
+        }, {
+          "id":3,
+          "title": "Датчик вскрытия корпуса",
+          "link": "opening-sensor"
+        }, {
+          "id":4,
+          "title": "Датчик пыли",
+          "link": "dust-sensor"
+        }, {
+          "id":5,
+          "title": "Удар",
+          "link": "shock-sensor"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "title": "Удаленное подключение",
+      "link": "remote-connection",
+      "childrenMenu":[]
+    },{
+      "id":5,
+      "title": "Список проверок",
+      "link": "checks",
+      "childrenMenu":[]
+    },{
+      "id":6,
+      "title": "Журналы",
+      "link": "logs",
+      "childrenMenu":[]
+    },{
+      "id":7,
+      "title": "Отчеты",
+      "link": "reports",
+      "childrenMenu":[]
+    },{
+      "id":8,
+      "title": "Графики",
+      "link": "charts",
+      "childrenMenu":[]
+    },{
+      "id":9,
+      "title": "Настройки",
+      "link": "settings",
+      "childrenMenu":[]
+    }
+  ],
   "listNetworks": [
     {
       "id":1,
