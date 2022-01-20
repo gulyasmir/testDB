@@ -323,7 +323,7 @@
       ]
     }
   ],
-  "deviceInfo": [{
+  "deviceInfo": {
     "id": 11,
     "networkId": 1,
     "icon": "mdi-inbox",
@@ -336,5 +336,5 @@
       "date": "22.12.2015",
       "ip": "192.168.2.1"
     }
-  }]
+  }
 }
