@@ -205,7 +205,7 @@
       "status": 0,
       "defect": false,
       "info": {
-        "name": "Компьютер 1",
+        "name": "Компьютер 2",
         "location": "1 этаж",
         "function": "secret",
         "date": "22.12.2015",
@@ -219,7 +219,7 @@
       "status": 0,
       "defect": false,
       "info": {
-        "name": "Компьютер 1",
+        "name": "Компьютер 3",
         "location": "1 этаж",
         "function": "secret",
         "date": "22.12.2015",
@@ -233,7 +233,7 @@
       "status": 0,
       "defect": false,
       "info": {
-        "name": "Компьютер 1",
+        "name": "Компьютер 4",
         "location": "1 этаж",
         "function": "secret",
         "date": "22.12.2015",
@@ -247,7 +247,7 @@
       "status": 0,
       "defect": false,
       "info": {
-        "name": "Компьютер 1",
+        "name": "Компьютер 5",
         "location": "1 этаж",
         "function": "secret",
         "date": "22.12.2015",
@@ -275,7 +275,7 @@
       "status": 0,
       "defect": false,
       "info": {
-        "name": "Компьютер 1",
+        "name": "Компьютер 2",
         "location": "1 этаж",
         "function": "secret",
         "date": "22.12.2015",
