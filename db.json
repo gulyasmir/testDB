@@ -154,7 +154,8 @@
       },
       "devices":[
         {
-          "id":1,
+          "id":11,
+          "networkId": 1,
           "icon": "mdi-inbox",
           "status":0,
           "defect":false,
@@ -166,7 +167,8 @@
             "ip": "192.168.2.1"
           }
         }, {
-          "id":2,
+          "id":12,
+          "networkId": 1,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -178,7 +180,8 @@
             "ip": "192.168.2.1"
           }
         }, {
-          "id":3,
+          "id":13,
+          "networkId": 1,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -190,7 +193,8 @@
             "ip": "192.168.2.1"
           }
         }, {
-          "id":4,
+          "id":14,
+          "networkId": 1,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -202,7 +206,8 @@
             "ip": "192.168.2.1"
           }
         }, {
-          "id":5,
+          "id":15,
+          "networkId": 1,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -230,7 +235,8 @@
       },
       "devices":[
         {
-          "id":1,
+          "id":21,
+          "networkId": 2,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -243,7 +249,8 @@
           }
         },
         {
-          "id":2,
+          "id":22,
+          "networkId": 2,
           "icon": "mdi-inbox",
           "status":1,
           "defect":true,
@@ -271,7 +278,8 @@
       },
       "devices":[
         {
-          "id":1,
+          "id":31,
+          "networkId": 3,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -299,7 +307,8 @@
       },
       "devices":[
         {
-          "id":1,
+          "id":41,
+          "networkId": 4,
           "icon": "mdi-inbox",
           "status":1,
           "defect":false,
@@ -313,5 +322,19 @@
         }
       ]
     }
-  ]
+  ],
+  "deviceInfo": {
+    "id": 11,
+    "networkId": 1,
+    "icon": "mdi-inbox",
+    "status": 0,
+    "defect": false,
+    "info": {
+      "name": "Компьютер 1",
+      "location": "1 этаж",
+      "function": "secret",
+      "date": "22.12.2015",
+      "ip": "192.168.2.1"
+    }
+  }
 }
